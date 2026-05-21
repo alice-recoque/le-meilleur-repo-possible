@@ -1,0 +1,4 @@
+Bravo ! 
+404CTF{CENSURÉ}
+Après réflexion, ça me paraissait abusé d'avoir le flag sur un repo public comme ça...
+Heureusement j'ai très vite censuré ça !
