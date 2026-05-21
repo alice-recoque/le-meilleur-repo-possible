@@ -1,0 +1,2 @@
+Encore une filouterie de ma part, pas de flag ici !
+nvim > vim >>>>>>>>>>>>>>> nano et emacs voilà la vérité
